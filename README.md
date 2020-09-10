@@ -1,2 +1,2 @@
-# study_go
+# go_study
 Self study Golang
